@@ -3,7 +3,7 @@
 namespace PasswordExercise.Interfaces
 {
     /// <summary>
-    /// Password Generator Interface
+    /// Password Service Interface
     /// </summary>
     public interface IPasswordService
     {
